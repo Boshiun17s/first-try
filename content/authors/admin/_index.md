@@ -3,7 +3,7 @@
 title: 邱柏勛
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Bo Shiun Chiu
 
 # Full name (for SEO)
 first_name: Bo Shiun
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: math student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
